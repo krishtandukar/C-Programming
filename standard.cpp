@@ -25,7 +25,6 @@
 // WAP to input 2 interger values and then ask the user to enter a choice:
 // -'a' or 'A' or '+' for addition
 // -'s' or 'S' or '-' for subtraction
-
 // #include <iostream>
 // using namespace std;    
 
@@ -175,7 +174,6 @@
 // Applicants are qualified to apply for the job only if they can lift at least 50 kg weight and are between 18 to 24 yrs of age. 
 // However, if the applicantshave more than 4 yrs of experience in the field, they can qualify even if they can lift just 35kg and are over 24 yrs of age. 
 // Write a program in C++ to input the information of applicants andcheck if they meet the required credentials for the job.
-
 // #include <iostream>
 // using namespace std;    
 
